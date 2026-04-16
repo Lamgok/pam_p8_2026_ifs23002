@@ -4,7 +4,7 @@
 class ApiConstants {
   ApiConstants._();
 
-  static const String baseUrl = 'https://pam-2026-p5-ifs23002-be.lamgok.fun:8080/';
+  static const String baseUrl = 'https://pam-2026-p5-ifs23002-be.lamgok.fun:8080';
 
   // ── Auth ──────────────────────────────────
   static const String authRegister = '/auth/register';
